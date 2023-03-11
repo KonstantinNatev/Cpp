@@ -1,0 +1,3 @@
+/home/konstantin/Programming/C++ - NBU/Second-Term/Traykov/class_building/cmake-build-debug/CMakeFiles/class_building.dir
+/home/konstantin/Programming/C++ - NBU/Second-Term/Traykov/class_building/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/konstantin/Programming/C++ - NBU/Second-Term/Traykov/class_building/cmake-build-debug/CMakeFiles/rebuild_cache.dir
